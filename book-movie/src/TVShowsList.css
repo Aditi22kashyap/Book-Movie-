@@ -1,0 +1,20 @@
+/* TVShowList.css */
+
+/* Center the headings */
+h1, h2 {
+    text-align: center;
+  }
+  
+  /* Create a grid layout with three columns */
+  .show-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  
+  /* Style each show box */
+  .show-box {
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
