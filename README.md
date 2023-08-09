@@ -6,8 +6,11 @@ Welcome to My Book-Movie App! This is a simple web application that allows you t
 
 - Browse a list of TV shows.
  ![image](https://github.com/Aditi22kashyap/Book-Movie-/assets/108919601/7a5bfa33-cc05-420d-96ba-a1fb048daeb1)
+
 - View detailed information about a selected show.
+- 
   ![image](https://github.com/Aditi22kashyap/Book-Movie-/assets/108919601/fb9ee78b-b021-461d-ac31-28e09d1b001a)
+  
 - Book tickets for a show.
 - Store booking data in local storage.
 
